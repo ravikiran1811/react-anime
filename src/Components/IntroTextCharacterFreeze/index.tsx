@@ -74,7 +74,9 @@ const IntroTextCharacterFreeze = () => {
           explicabo, molestiae amet vel corrupti nostrum quidem labore quae
           reprehenderit!
         </p>
+        <p>its a bvlock</p>
       </div>
+
     </>
   );
 };
